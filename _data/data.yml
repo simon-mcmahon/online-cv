@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
+    title: Simon McMahon - Data Scientist
     url: 'https://simon-mcmahon.github.io/'
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
