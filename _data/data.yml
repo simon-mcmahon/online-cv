@@ -84,7 +84,7 @@ projects:
         link: "https://nytimes-emotion.herokuapp.com"
         tagline: "Responsive webapp analysing the emotion and bias of the NY times most shared articles by social media type. Dash by Plotly backend. Machine learning done with NLTK."
       - project:
-        title: Aluminium Mining Optimization (Operations Research)
+        title: Aluminium Mining Optimization
         link: "https://github.com/simon-mcmahon/operations-research-project"
         tagline: "An assignment from university that used a combination of linear and integer programming to conditionally optimize the activity on a theoretical bauxite mine over a six month period."
       #- project:
