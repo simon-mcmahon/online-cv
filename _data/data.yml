@@ -28,13 +28,10 @@ sidebar:
         
     interests:
         - interest:
-          item: Climbing
+          item: Hiking
           link:
         - interest:
-          item: Snowboarding
-          link:
-        - interest:
-          item: Cooking
+          item: Ultimate Disc
           link:
 
         
@@ -44,8 +41,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
-
+    text: 'FILLER TEXT'
 
 studies: 
     - education:
@@ -60,14 +56,13 @@ studies:
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Coding projects I have worked on in my spare time."
     
     projects:
       - project:
         title: NY Times Sentiment Analysis
         link: "https://nytimes-emotion.herokuapp.com"
-        tagline: "Responsive webapp analysing the emotion and bias of the NY times most shared articles by social media type."
+        tagline: "Responsive webapp analysing the emotion and bias of the NY times most shared articles by social media type. Dash by Plotly backend. Machine learning done with NLTK."
       - project:
         title: DevStudio
         link: "#"
@@ -87,13 +82,13 @@ projects:
 
 
 publications:
-    title: Publications
+    title: Work Experience
     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
+        title: Data Analyst Intern
+        authors: Jacaranda Finance
         conference: Addison-Wesley, 1968
       - paper:
         title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
