@@ -16,7 +16,7 @@ sidebar:
     # Sidebar links
     email: simon.nathan.mcmahon@gmail.com
     phone: 0490 066 236 
-    website: blog.webjeda.com #do not add http://
+    # website: blog.webjeda.com #do not add http://
     linkedin: simon-mcmahon
     github: simon-mcmahon
     
@@ -34,59 +34,45 @@ sidebar:
           item: Ultimate Disc
           link:
 
-        
-
-
-
 
 career-profile: 
     title: Career Profile
-    text: 'FILLER TEXT'
+    text: 'Experienced data scientist who trained as a mathematician. Through 4 years of tutoring and small business ownership experience, I can explain complex concepts and translate technical mathematics into business deliverables with ease. <br><br>In short, I am a well-rounded, gifted data scientist who loves big challenges and touch problems.'
 
 studies: 
     - education:
       degree: BMath in Mathematics
       university: University of Queensland
       time: 2013 - 2017
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: "Studied a Bachelor of Mathematics focusing on applied areas such as Statistical analysis, high performance coding and optimization. Was awarded the Vice Chancellor Scholarship ($12,000 p.a. based on academic merit)."
 
 experiences:
     #Work Experience
     title: Work Experience
-    intro: 'Jobs I used to have'
+    intro: 'Past workplaces and internship placements.'
     
     experiences:
         - experience:
-          role: Lead Developer
-          time: 2015 - Present
-          company: Startup Hubs, San Francisco
-          details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-          elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-          magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-          <br> <br>
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-          laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo."
+          role: Data Analyst
+          time: 07/2017 - 02/2018
+          company: Jacaranda Finance
+          details: "Worked as a data analyst for a financial services company improving their credit scoring algorithm using an internal dataset using a variety of statistical (logistic regression, decision tree and random forest) and machine learning methods in R."
         - experience:
-          role: Senior Software Engineer
+          role: Data Intern
           time: 2014 - 2015
-          company: Google, London
-          details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-          elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-          magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem."
+          company: Noisenet
+          details: "Jack of all trades for an ambitious real estate sound monitoring start-up. In my role I have: written Django unit tests for an AWS server backend; scraped, organised and centrally stored useful data sets; conducted research projects in business-related areas and optimized the runtime of an internal tool using mathematical improvements."
+  
         - experience:
-          role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-          elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-          magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem."
+          role: Casual Academic Tutor
+          time: 2016 - 2017
+          company: University of Queensland
+          details: "Academic tutor to tutorials of 25 students. Tasks involved explaining mathematical concepts, marking assignments and giving constructive feedback to students."
+        - experience:
+          role: Private Tutor
+          time: 2013 - 2018
+          company: Altius Tutoring
+          details: "Founder of a 1-on-1 specialist tutoring company for Queensland senior school students. My role included tutoring, marketing, sales and client relationship management."
 
 projects:
     title: Projects
@@ -97,49 +83,40 @@ projects:
         title: NY Times Sentiment Analysis
         link: "https://nytimes-emotion.herokuapp.com"
         tagline: "Responsive webapp analysing the emotion and bias of the NY times most shared articles by social media type. Dash by Plotly backend. Machine learning done with NLTK."
-      - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      #- project:
+      #  title: DevStudio
+      #  link: "#"
+      #  tagline: "A responsive website template designed to help web developers/designers market their services."
 
 
-publications:
-    title: Work Experience
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+#publications:
+#    title: Work Experience
+#    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
-    publications:
-      - paper:
-        title: Data Analyst Intern
-        authors: Jacaranda Finance
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#    publications:
+#      - paper:
+#        title: Data Analyst Intern
+#        authors: Jacaranda Finance
+#        conference: Addison-Wesley, 1968
+#      - paper:
+#        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#      - paper:
+#        title: A syntax directed compiler for Algol 60
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python (numpy, pandas, plotly)
+          name: Python (numpy, pandas)
           level: 98%
+        - skill:
+          name: MATLAB
+          level: 95%
         - skill:
           name: Amazon Web Services
           level: 90%
@@ -147,11 +124,11 @@ skills:
           name: R language 
           level: 90%
         - skill:
-          name: MATLAB
-          level: 95%
-        - skill:
           name: Database (SQlite, postgresql)
-          level: 95%
+          level: 80%
+        - skill:
+          name: Python (plotly, Django)
+          level: 75%
         - skill:
           name: Python (TensorFlow)
           level: 70%
