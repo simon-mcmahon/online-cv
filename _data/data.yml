@@ -37,7 +37,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Experienced data scientist who trained as a mathematician. Through 4 years of tutoring and small business ownership experience, I can explain complex concepts and translate technical mathematics into business deliverables with ease. <br><br>In short, I am a well-rounded, gifted data scientist who loves big challenges and touch problems.'
+    text: 'Experienced data scientist who trained as a mathematician. Through four years of tutoring and small business ownership experience, I can explain complex concepts and translate technical mathematics into business deliverables with ease. <br>In short, I am a well-rounded, gifted data scientist who loves big challenges and touch problems.'
 
 studies: 
     - education:
@@ -59,9 +59,9 @@ experiences:
           details: "Worked as a data analyst for a financial services company improving their credit scoring algorithm using an internal dataset using a variety of statistical (logistic regression, decision tree and random forest) and machine learning methods in R."
         - experience:
           role: Data Intern
-          time: 2014 - 2015
+          time: 2017 - Present
           company: Noisenet
-          details: "Jack of all trades for an ambitious real estate sound monitoring start-up. In my role I have: written Django unit tests for an AWS server backend; scraped, organised and centrally stored useful data sets; conducted research projects in business-related areas and optimized the runtime of an internal tool using mathematical improvements."
+          details: "Jack of all trades for an ambitious real estate sound monitoring start-up. <br> In my role I have: written Django unit tests for an AWS server backend; scraped, organised and centrally stored useful data sets; conducted research projects in business-related areas and optimized the runtime of an internal tool using mathematical improvements."
   
         - experience:
           role: Casual Academic Tutor
@@ -83,6 +83,10 @@ projects:
         title: NY Times Sentiment Analysis
         link: "https://nytimes-emotion.herokuapp.com"
         tagline: "Responsive webapp analysing the emotion and bias of the NY times most shared articles by social media type. Dash by Plotly backend. Machine learning done with NLTK."
+      - project:
+        title: Aluminium Mining Optimization (Operations Research)
+        link: "https://github.com/simon-mcmahon/operations-research-project"
+        tagline: "An assignment from university that used a combination of linear and integer programming to conditionally optimize the activity on a theoretical bauxite mine over a six month period."
       #- project:
       #  title: DevStudio
       #  link: "#"
