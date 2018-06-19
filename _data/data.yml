@@ -38,7 +38,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Experienced data scientist who trained as a mathematician. Through four years of tutoring and small business ownership experience, I can explain complex concepts and translate technical mathematics into business deliverables with ease. <br>In short, I am a well-rounded, gifted data scientist who loves big challenges and touch problems.'
+    text: 'Experienced data scientist who trained as a mathematician. Through four years of tutoring and small business ownership experience, I can explain complex concepts and translate technical mathematics into business deliverables with ease. In short, I am a well-rounded, gifted data scientist who loves big challenges and touch problems.'
 
 studies: 
     - education:
@@ -62,7 +62,7 @@ experiences:
           role: Data Scientist Intern
           time: 2017 - 2018
           company: Noisenet
-          details: "Jack of all trades for an ambitious real estate sound monitoring start-up. <br> In my role I have: written Django unit tests for an AWS server backend; scraped, organised and centrally stored useful data sets; conducted research projects in business-related areas and optimized the runtime of an internal tool using mathematical improvements."
+          details: "Jack of all trades for an ambitious real estate sound monitoring start-up. In my role I wrote unit tests for an AWS Django server; scraped and manged large data sets in AWS databases; conducted customer research and optimized the runtime of an internal tool using mathematical improvements."
   
         - experience:
           role: Casual Academic Tutor
