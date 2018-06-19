@@ -62,7 +62,7 @@ experiences:
           role: Data Scientist Intern
           time: 2017 - 2018
           company: Noisenet
-          details: "Intern for an ambitious real estate sound monitoring start-up. In my role I wrote unit tests for an AWS Django server; scraped and manged large data sets in AWS databases; and optimized the runtime of an internal tool using mathematical improvements."
+          details: "Intern for an ambitious real estate sound monitoring start-up. In my role I wrote unit tests for an AWS Django server; scraped and managed large data sets in AWS databases; and optimized the runtime of an internal tool using mathematical improvements."
   
         - experience:
           role: Casual Academic Tutor
