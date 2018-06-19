@@ -19,7 +19,7 @@ sidebar:
     # website: blog.webjeda.com #do not add http://
     linkedin: simon-mcmahon
     github: simon-mcmahon
-    resume: https://rawgit.com/simon-mcmahon/simon-mcmahon.github.io/master/Simon_McMahon_Resume.pdf
+    resume: https://rawgit.com/simon-mcmahon/simon-mcmahon.github.io/master/assets/Simon_McMahon_Resume.pdf
     
     languages:
         - language:
@@ -38,7 +38,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Experienced data scientist who was trained as a mathematician. Through four years of tutoring and small business ownership experience, I can explain complex concepts and translate technical mathematics into business deliverables with ease. In short, I am a well-rounded, gifted data scientist who loves big challenges and touch problems.'
+    text: 'Experienced data scientist with a mathematical background. Also, my years of tutoring and small business ownership experience mean I am practised at explaining complex concepts and translating technical mathematics into business deliverables. In short, I am a well-rounded, gifted data scientist who loves challenges and tough problems.'
 
 studies: 
     - education:
