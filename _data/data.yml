@@ -38,14 +38,14 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Experienced data scientist who trained as a mathematician. Through four years of tutoring and small business ownership experience, I can explain complex concepts and translate technical mathematics into business deliverables with ease. In short, I am a well-rounded, gifted data scientist who loves big challenges and touch problems.'
+    text: 'Experienced data scientist who was trained as a mathematician. Through four years of tutoring and small business ownership experience, I can explain complex concepts and translate technical mathematics into business deliverables with ease. In short, I am a well-rounded, gifted data scientist who loves big challenges and touch problems.'
 
 studies: 
     - education:
       degree: BMath in Mathematics
       university: University of Queensland
       time: 2013 - 2017
-      details: "Studied a Bachelor of Mathematics focusing on applied areas such as statistical analysis, high performance coding and optimization. Was awarded the Vice Chancellor Scholarship ($12,000 p.a. based on academic merit)."
+      details: "Studied Mathematics focusing on applied areas such as statistical analysis, algorithms and optimization. Was awarded the Vice Chancellor Scholarship ($12,000 p.a. based on academic merit)."
 
 experiences:
     #Work Experience
@@ -57,7 +57,7 @@ experiences:
           role: Data Analyst
           time: 2017 - Present
           company: Jacaranda Finance
-          details: "Data analyst for a financial services company improving their credit scoring algorithm using an internal dataset using a variety of statistical (logistic regression, decision tree, random forest) and machine learning methods in R language."
+          details: "Data analyst for a financial services company improving their credit scoring algorithm using an internal dataset and a variety of statistical (logistic regression, decision tree, random forest) and machine learning methods in R language."
         - experience:
           role: Data Scientist Intern
           time: 2017 - 2018
