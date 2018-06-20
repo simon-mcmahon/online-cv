@@ -58,7 +58,7 @@ experiences:
           role: Data Analyst
           time: 2017 - Present
           company: Jacaranda Finance
-          details: "Data analyst for a financial services company improving their credit scoring algorithm using an internal dataset and a variety of statistical (logistic regression, decision tree, random forest) and machine learning methods in R language."
+          details: "Data analyst for a financial services company. During my role, I was tasked with improving their credit scoring algorithm using an internal data set. To accomplish this I implemented a variety of statistical (logistic regression, decision tree, random forest) and machine learning methods in R language and oversaw their deployment as an API."
         - experience:
           role: Data Scientist Intern
           time: 2017 - 2018
