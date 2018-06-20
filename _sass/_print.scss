@@ -4,9 +4,9 @@
         size: A4;
     }
     body {
-       font-size: 11pt;
+       font-size: 13pt;
     }
-
+    p {page-break-inside: avoid;}
     img.profile-img {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
