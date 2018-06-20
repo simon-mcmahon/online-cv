@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Simon McMahon
+N:McMahon;Simon;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:simon@simonmcmahon.com
+TEL;TYPE=CELL:+61490066236
+ADR;TYPE=WORK:;;Brisbane;;;Australia
+item4.URL:https\://www.linkedin.com/in/simon-mcmahon
+item4.X-ABLabel:LinkedIn
+item5.URL:https\://simonmcmahon.com
+item5.X-ABLabel:Profile
+ROLE:Data Scientist
+END:VCARD
