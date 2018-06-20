@@ -19,7 +19,7 @@ sidebar:
     # website: blog.webjeda.com #do not add http://
     linkedin: simon-mcmahon
     github: simon-mcmahon
-    resume: https://rawgit.com/simon-mcmahon/simon-mcmahon.github.io/master/assets/Simon_McMahon_Resume.pdf
+    resume: /assets/sm_resume.pdf
     
     languages:
         - language:
