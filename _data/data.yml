@@ -86,10 +86,6 @@ projects:
         link: "https://nytimes-emotion.herokuapp.com"
         tagline: "Responsive webapp analysing the emotion and bias of the NY times most shared articles by social media type. Dash by Plotly backend. Machine learning done with NLTK."
       - project:
-        title: Aluminium Mining Optimization
-        link: "https://github.com/simon-mcmahon/operations-research-project"
-        tagline: "An assignment from university that used a combination of linear and integer programming to conditionally optimize the activity on a theoretical bauxite mine over a six month period."
-      - project:
         title: Conspiracy Trivia
         link: "https://assistant.google.com/services/a/uid/0000004af87ac8fa?hl=en"
         tagline: "A simple trivia game for the Google Assistant and Google Home product lines with a conspiratorial theme."
