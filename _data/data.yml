@@ -56,12 +56,12 @@ experiences:
     experiences:
         - experience:
           role: Data Analyst
-          time: 2017 - Present
+          time: 08/2017 - 11/2017
           company: Jacaranda Finance
           details: "Data analyst for a financial services company. During my role, I was tasked with improving their credit scoring algorithm using an internal data set. To accomplish this I implemented a variety of statistical (logistic regression, decision tree, random forest) and machine learning methods in R language and oversaw their deployment as an API."
         - experience:
           role: Data Scientist Intern
-          time: 2017 - 2018
+          time: 08/2017 - 02/2018
           company: Noisenet
           details: "Intern for an ambitious real estate sound monitoring start-up. In my role I wrote unit tests for an AWS Django server; scraped and managed large data sets in AWS databases; and optimized the runtime of an internal tool using mathematical improvements."
   
