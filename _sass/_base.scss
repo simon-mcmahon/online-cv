@@ -4,7 +4,7 @@ body {
     color: $text-color-secondary;
     background: $smoky-white;
     font-size: 14px;
-    padding: 30px;
+    padding: 20px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -48,7 +48,7 @@ p {
         color: #fff;
     }
     .profile-container {
-        padding: 30px;
+        padding: 20px;
         //background: darken($theme-color, 10%);
         background: rgba(0, 0, 0, 0.2);
         text-align: center;
