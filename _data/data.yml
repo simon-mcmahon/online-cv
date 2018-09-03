@@ -27,7 +27,6 @@ sidebar:
           idiom: English
           level: Native
 
-        
     interests:
         - interest:
           item: Hiking
@@ -43,7 +42,7 @@ career-profile:
     
 studies: 
     - education:
-      degree: BMath in Mathematics
+      degree: Bachelor of Mathematics
       university: University of Queensland
       time: 2013 - 2017
       details: "Studied Mathematics focusing on applied areas such as statistical analysis, algorithms and optimization. Awarded the Vice Chancellor Scholarship ($12,000 p.a.) based on academic merit."
@@ -54,17 +53,21 @@ experiences:
     intro: 'Past workplaces and internship placements.'
     
     experiences:
+            - experience:
+          role: Data Scientist
+          time: 08/2018 - Present
+          company: Synengco
+          details: "Data Scientist for specialist engineering company on project optimising combustion of coal power plants."
         - experience:
-          role: Data Analyst
-          time: 08/2017 - 11/2017
-          company: Jacaranda Finance
-          details: "Data analyst for a financial services company. During my role, I was tasked with improving their credit scoring algorithm using an internal data set. To accomplish this I implemented a variety of statistical (logistic regression, decision tree, random forest) and machine learning methods in R language and oversaw their deployment as an API."
-        - experience:
-          role: Data Scientist Intern
+          role: Data Scientist
           time: 08/2017 - 02/2018
           company: Noisenet
           details: "Intern for an ambitious real estate sound monitoring start-up. In my role I wrote unit tests for an AWS Django server; scraped and managed large data sets in AWS databases; and optimized the runtime of an internal tool using mathematical improvements."
-  
+          - experience:
+          role: Data Analyst
+          time: 08/2017 - 11/2017
+          company: Jacaranda Finance
+          details: "Data analyst for a financial services company on project improving their credit scoring algorithm using an internal data set. In my role, I implemented statistical & machine learning algorithms in R language and oversaw their deployment as an API."
         - experience:
           role: Casual Academic Tutor
           time: 2016 - 2017
@@ -72,7 +75,7 @@ experiences:
           details: "Academic tutor to 25 students. Tasks involved explaining mathematical concepts, marking assignments and giving constructive feedback to students."
         - experience:
           role: Private Tutor
-          time: 2013 - 2018
+          time: 2013 - 2017
           company: Altius Tutoring
           details: "Founder of a 1-on-1 specialist tutoring company for Queensland senior school students. My role included tutoring, marketing, sales and client relationship management."
 
@@ -133,7 +136,7 @@ skills:
           level: 75%
         - skill:
           name: Python (TensorFlow)
-          level: 70%
+          level: 60%
         - skill:
           name: Photoshop
           level: 50%
