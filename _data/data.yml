@@ -53,7 +53,7 @@ experiences:
     intro: 'Past workplaces and internship placements.'
     
     experiences:
-            - experience:
+        - experience:
           role: Data Scientist
           time: 08/2018 - Present
           company: Synengco
