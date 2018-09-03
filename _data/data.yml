@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,21 +7,21 @@ sidebar:
     title: Simon McMahon - Data Scientist
     url: 'https://simon-mcmahon.github.io/'
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
-    
+
     # Profile information
     name: Simon McMahon
     tagline: Data Scientist
     pic: sm_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    
+
     # Sidebar links
     email: simon@simonmcmahon.com
-    phone: 0490 066 236 
+    phone: 0490 066 236
     # website: blog.webjeda.com #do not add http://
     linkedin: simon-mcmahon
     github: simon-mcmahon
     resume: /assets/sm_resume.pdf
     contact: /assets/sm_contact.vcf
-    
+
     languages:
         - language:
           idiom: English
@@ -36,11 +36,11 @@ sidebar:
           link:
 
 
-career-profile: 
+career-profile:
     title: Career Profile
     text: 'Experienced data scientist with a mathematical background. Previous experience in tutoring and small business ownership mean I am practised at explaining complex concepts and translating technical mathematics into workplace output. In short, I am a well-rounded data scientist who loves challenges and tough problems.'
-    
-studies: 
+
+studies:
     - education:
       degree: Bachelor of Mathematics
       university: University of Queensland
@@ -51,7 +51,7 @@ experiences:
     #Work Experience
     title: Work Experience
     intro: 'Past workplaces and internship placements.'
-    
+
     experiences:
         - experience:
           role: Data Scientist
@@ -63,7 +63,7 @@ experiences:
           time: 08/2017 - 02/2018
           company: Noisenet
           details: "Intern for an ambitious real estate sound monitoring start-up. In my role I wrote unit tests for an AWS Django server; scraped and managed large data sets in AWS databases; and optimized the runtime of an internal tool using mathematical improvements."
-          - experience:
+        - experience:
           role: Data Analyst
           time: 08/2017 - 11/2017
           company: Jacaranda Finance
@@ -82,7 +82,7 @@ experiences:
 projects:
     title: Projects
     intro: "Coding projects I have worked on in my spare time."
-    
+
     projects:
       - project:
         title: NY Times Sentiment Analysis
@@ -97,7 +97,7 @@ projects:
 #publications:
 #    title: Work Experience
 #    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+
 #    publications:
 #      - paper:
 #        title: Data Analyst Intern
@@ -126,7 +126,7 @@ skills:
           name: Amazon Web Services
           level: 90%
         - skill:
-          name: R language 
+          name: R language
           level: 90%
         - skill:
           name: Database (SQlite, postgresql)
@@ -142,5 +142,5 @@ skills:
           level: 50%
 
 
-footer: 
+footer:
     text: 'Responsive resume theme.'
