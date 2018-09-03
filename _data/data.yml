@@ -38,14 +38,14 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    text: 'Experienced data scientist with a mathematical background. Previous experience in tutoring and small business ownership mean I am practised at explaining complex concepts and translating technical mathematics into workplace output. In short, I am a well-rounded data scientist who loves challenges and tough problems.'
+    text: 'Experienced data scientist with a background in mathematics, teaching and small business ownership. Hence, I am a skilled professional who is also adept at communicating complex concepts and interfacing with key stakeholders.'
 
 studies:
     - education:
       degree: Bachelor of Mathematics
       university: University of Queensland
       time: 2013 - 2017
-      details: "Studied Mathematics focusing on applied areas such as statistical analysis, algorithms and optimization. Awarded the Vice Chancellor Scholarship ($12,000 p.a.) based on academic merit."
+      details: "Awarded the Vice Chancellor Scholarship ($12,000 p.a.) based on academic merit."
 
 experiences:
     #Work Experience
@@ -57,22 +57,22 @@ experiences:
           role: Data Scientist
           time: 08/2018 - Present
           company: Synengco
-          details: "Data Scientist for specialist engineering company on project optimising combustion of coal power plants."
+          details: "Data Scientist for a specialist engineering company working on optimising combustion of coal power plants."
         - experience:
           role: Data Scientist
           time: 08/2017 - 02/2018
           company: Noisenet
-          details: "Intern for a real estate sound monitoring start-up. In my role I scraped large data sets, managed GIS & traditional databases on AWS, and optimised an internal tool's runtime with mathematical improvements."
+          details: "Intern for a real estate sound monitoring start-up. In my role I scraped large data sets, managed databases on AWS, and optimised an internal tool's runtime with mathematical improvements."
         - experience:
           role: Data Analyst
           time: 08/2017 - 11/2017
           company: Jacaranda Finance
-          details: "Data analyst for a financial services company on project improving their credit scoring algorithm using an internal data set. In my role, I implemented statistical & machine learning algorithms in R language and oversaw their deployment as an API."
+          details: "Data analyst for a financial services company. In my role I improved their credit scoring algorithm using an internal data set by implementing statistical & machine learning algorithms in R language. Project deliverable was an API."
         - experience:
           role: Casual Academic Tutor
           time: 2016 - 2017
           company: University of Queensland
-          details: "Academic tutor to 25 students. Tasks involved explaining mathematical concepts, marking assignments and giving constructive feedback to students."
+          details: "Academic tutor to classes of 25 students. Tasks included teaching, marking and giving feedback to students."
         - experience:
           role: Private Tutor
           time: 2013 - 2017
@@ -81,7 +81,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: "Coding projects I have worked on in my spare time."
+    # intro: "Coding projects I have worked on in my spare time."
 
     projects:
       - project:
