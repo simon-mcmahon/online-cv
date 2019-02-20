@@ -44,7 +44,7 @@ studies:
     - education:
       degree: Bachelor of Mathematics
       university: University of Queensland
-      time: 2013 - 2018
+      time: 02/2013 - 07/2018
       details: "Awarded the Vice Chancellor Scholarship ($12,000 p.a.) based on academic merit."
 
 experiences:
@@ -65,12 +65,12 @@ experiences:
           details: "Data analyst for a financial services company. In my role I improved their credit scoring algorithm using an internal data set by implementing statistical & machine learning algorithms in R language. Project deliverable was an API."
         - experience:
           role: Casual Academic Tutor
-          time: 2016 - 2017
+          time: 02/2017 - 11/2017
           company: University of Queensland
           details: "Academic tutor to classes of 25 students. Tasks included teaching, marking and giving feedback to students."
         - experience:
           role: Private Tutor
-          time: 2013 - 2017
+          time: 02/2013 - 11/2018
           company: Altius Tutoring
           details: "Founder of a 1-on-1 specialist tutoring company for Queensland senior school students. My role included tutoring, marketing, sales and client relationship management."
 
