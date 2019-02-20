@@ -44,7 +44,7 @@ studies:
     - education:
       degree: Bachelor of Mathematics
       university: University of Queensland
-      time: 2013 - 2017
+      time: 2013 - 2018
       details: "Awarded the Vice Chancellor Scholarship ($12,000 p.a.) based on academic merit."
 
 experiences:
@@ -53,11 +53,6 @@ experiences:
     intro: 'Past workplaces and internship placements.'
 
     experiences:
-        - experience:
-          role: Data Scientist
-          time: 08/2018 - Present
-          company: Synengco
-          details: "Data Scientist for a specialist engineering company working on optimising combustion of coal power plants."
         - experience:
           role: Data Scientist
           time: 08/2017 - 02/2018
