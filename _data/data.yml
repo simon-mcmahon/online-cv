@@ -53,7 +53,7 @@ experiences:
     intro: 'Past workplaces and internship placements.'
 
     experiences:
-- experience:
+        - experience:
           role: Data Scientist
           time: 04/2019 - Present
           company: Hismile
