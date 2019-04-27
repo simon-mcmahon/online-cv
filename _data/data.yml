@@ -53,6 +53,11 @@ experiences:
     intro: 'Past workplaces and internship placements.'
 
     experiences:
+- experience:
+          role: Data Scientist
+          time: 04/2019 - Present
+          company: Hismile
+          details: "Data Scientist for a D2C at-home teeth whitening company with ~$20 million p.a. revenue. I manage data production, extraction and processing from CX, eCommerce and Ad sources using Google cloud to increase sales."
         - experience:
           role: Data Scientist
           time: 08/2017 - 02/2018
