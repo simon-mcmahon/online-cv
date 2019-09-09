@@ -55,11 +55,6 @@ experiences:
     experiences:
         - experience:
           role: Data Scientist
-          time: 04/2019 - Present
-          company: Hismile
-          details: "Data Scientist for a large D2C at-home teeth whitening company. I manage data production, extraction and processing from CX, eCommerce and Ad sources using Google cloud to increase sales."
-        - experience:
-          role: Data Scientist
           time: 08/2017 - 02/2018
           company: Noisenet
           details: "Intern for a real estate sound monitoring start-up. In my role I scraped large data sets, managed databases on AWS, and optimised an internal tool's runtime with mathematical improvements."
