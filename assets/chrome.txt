@@ -1,0 +1,28 @@
+// Allow fullscreen:
+"FullscreenAllowed": true,
+
+// Hide the home button:
+"ShowHomeButton": false,
+
+// Enable developer tools:
+"DeveloperToolsDisabled": false,
+
+// Allow accessing microphone and camera on specific websites without asking for a permission:
+"AudioCaptureAllowed": false,
+"AudioCaptureAllowedUrls": ["https://www.onlinemictest.com/", "https://webcammictest.com/"],
+"VideoCaptureAllowed": false,
+"VideoCaptureAllowedUrls": ["https://www.onlinemictest.com/", "https://webcammictest.com/"],
+
+//Forced Extensions
+
+"ExtensionInstallForcelist": [
+  "bkdgflcldnnnapblkhphbgpggdiikppg",
+  "doojmbjmlfjjnbmnoijecmcbfeoakpjm",
+  "cjpalhdlnbpafiamejdnhcphjbkeiagm",
+  "gcbommkclmclpchllfjekcdonpmejbdp",
+  "pkehgijcmpdhfbdbbnkijodmdjhbjlgp",
+  "jeoacafpbcihiomhlakheieifhpjdfeo"
+]
+
+// Disable tracking of the users' physical location:
+"DefaultGeolocationSetting": 2,
